@@ -1,0 +1,5 @@
+uploadPath
+upload
+tmp
+/home/ruoyi/uploadPath
+D:/ruoyi/uploadPath
